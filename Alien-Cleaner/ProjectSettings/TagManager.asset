@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trash
+  - notTrash
+  - global
+  - Trash
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Env 0
+    uniqueID: 853103931
+    locked: 0
+  - name: Env 1
+    uniqueID: 1370345845
+    locked: 0
+  - name: Env 2
+    uniqueID: 2364426231
+    locked: 0
+  - name: Env 3
+    uniqueID: 759721567
+    locked: 0
+  - name: Env 4
+    uniqueID: 1039257483
+    locked: 0
+  - name: Player
+    uniqueID: 19624819
+    locked: 0
